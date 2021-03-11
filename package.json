@@ -1,0 +1,24 @@
+{
+  "name": "db_herokutest",
+  "version": "1.0.0",
+  "description": "herokutest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dboren/db_herokutest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dboren/db_herokutest/issues"
+  },
+  "homepage": "https://github.com/dboren/db_herokutest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
